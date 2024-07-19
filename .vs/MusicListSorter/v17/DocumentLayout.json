@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\musicandmoviecollectionmanager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\addmultiplerecordswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\addmultiplerecordswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\addnewrecordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\addnewrecordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\addnewrecordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\addnewrecordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|e:\\workspace\\musicandmoviecollectionmanager\\musiclistsorter\\addmultiplerecordswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3E4518-C4F1-49B7-BFAB-D4642C09E4E6}|MusicListSorter\\MusicListSorter.csproj|solutionrelative:musiclistsorter\\addmultiplerecordswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMultipleRecordsWindow.xaml",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddMultipleRecordsWindow.xaml",
+              "RelativeDocumentMoniker": "MusicListSorter\\AddMultipleRecordsWindow.xaml",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddMultipleRecordsWindow.xaml",
+              "RelativeToolTip": "MusicListSorter\\AddMultipleRecordsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T20:15:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\App.xaml",
+              "RelativeDocumentMoniker": "MusicListSorter\\App.xaml",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\App.xaml",
+              "RelativeToolTip": "MusicListSorter\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T20:15:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MusicListSorter\\App.xaml.cs",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\App.xaml.cs",
+              "RelativeToolTip": "MusicListSorter\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:15:27.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MusicListSorter\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AssemblyInfo.cs",
+              "RelativeToolTip": "MusicListSorter\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:15:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewRecordWindow.xaml",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddNewRecordWindow.xaml",
+              "RelativeDocumentMoniker": "MusicListSorter\\AddNewRecordWindow.xaml",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddNewRecordWindow.xaml",
+              "RelativeToolTip": "MusicListSorter\\AddNewRecordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T20:05:42.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewRecordWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddNewRecordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicListSorter\\AddNewRecordWindow.xaml.cs",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddNewRecordWindow.xaml.cs",
+              "RelativeToolTip": "MusicListSorter\\AddNewRecordWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:05:41.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMultipleRecordsWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddMultipleRecordsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicListSorter\\AddMultipleRecordsWindow.xaml.cs",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\AddMultipleRecordsWindow.xaml.cs",
+              "RelativeToolTip": "MusicListSorter\\AddMultipleRecordsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:09:22.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MusicListSorter\\MainWindow.xaml",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\MainWindow.xaml",
+              "RelativeToolTip": "MusicListSorter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T18:56:08.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicListSorter\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Workspace\\musicandmoviecollectionmanager\\MusicListSorter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MusicListSorter\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAYwMUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:20:13.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data.SQLite;
 using System.Windows;
+using System.Windows.Controls;
 
 namespace MusicListSorter
 {
@@ -35,9 +36,10 @@ namespace MusicListSorter
                     cmd.Parameters.AddWithValue("@title", title);
 
                     long newID = (long)cmd.ExecuteScalar();
-                    MessageBox.Show($"Új bejegyzés hozzáadva az ID-vel: {newID}");
+                    MessageBox.Show($"New item added successfully: {newID}");
                 }
             }
+
 
             this.Close();
         }

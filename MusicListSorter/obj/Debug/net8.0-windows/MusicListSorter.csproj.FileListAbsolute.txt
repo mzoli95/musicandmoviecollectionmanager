@@ -82,10 +82,8 @@ E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\bin\Debug\net8.0-win
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\MusicListSorter.csproj.AssemblyReference.cache
-E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\AddMultipleRecordsWindow.baml
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\AddNewRecordWindow.baml
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\EditWindow.baml
-E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\AddMultipleRecordsWindow.g.cs
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\AddNewRecordWindow.g.cs
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\EditWindow.g.cs
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\MainWindow.g.cs
@@ -104,3 +102,4 @@ E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-win
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\MusicListSorter.pdb
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\MusicListSorter.genruntimeconfig.cache
 E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\ref\MusicListSorter.dll
+E:\Workspace\musicandmoviecollectionmanager\MusicListSorter\obj\Debug\net8.0-windows\MusicListSorter.sourcelink.json

@@ -100,7 +100,7 @@ namespace MusicListSorter {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MusicListSorter;component/addnewrecordwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MusicListSorter;V1.0.0.0;component/addnewrecordwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddNewRecordWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

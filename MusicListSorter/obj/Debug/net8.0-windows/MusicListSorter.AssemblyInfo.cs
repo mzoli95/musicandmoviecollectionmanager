@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicListSorter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83aabb100480f6bd23e4722e4046df226f829d31")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicListSorter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicListSorter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

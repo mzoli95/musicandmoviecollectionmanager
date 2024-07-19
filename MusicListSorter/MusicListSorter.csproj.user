@@ -7,9 +7,6 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AddMultipleRecordsWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="AddNewRecordWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -18,9 +15,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="AddMultipleRecordsWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
     <Page Update="AddNewRecordWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
